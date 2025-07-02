@@ -1,15 +1,11 @@
 # 📘 HTML Basics: Structure, Headings, Paragraphs, and Line Breaks
 
-## 🎯 Learning Goals
-- *Understand the structure of an HTML document*
-- *Use basic tags like `<!DOCTYPE>`, `<html>`, `<head>`, `<body>`, `<h1>`–`<h6>`, `<p>`, `<br>`, `<hr>`*
-- *Open the HTML file in a browser*
-
 ## 📚 Learning Objectives
 - Understand the basic structure of an HTML page
 - Use heading tags (`<h1>` to `<h6>`)
 - Use paragraph (`<p>`), line break (`<br>`), and horizontal line (`<hr>`)
 - Learn how to open `.html` files in a browser
+- *Use basic tags like `<!DOCTYPE>`, `<html>`, `<head>`, `<body>`, `<h1>`–`<h6>`, `<p>`, `<br>`, `<hr>`*
 
 ---
 
